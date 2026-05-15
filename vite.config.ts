@@ -11,6 +11,7 @@ export default defineConfig({
       "@pages": path.resolve(__dirname, "pages"),
       "@lib": path.resolve(__dirname, "lib"),
       "@hooks": path.resolve(__dirname, "hooks"),
+      "@assets": path.resolve(__dirname, "attached_assets"),
     },
   },
   root: ".",
@@ -19,9 +20,3 @@ export default defineConfig({
     emptyOutDir: true,
   },
 });
-resolve: {
-  alias: {
-    "@": path.resolve(__dirname, "src"),
-    "@assets": path.resolve(__dirname, "attached_assets"),
-  },
-},
