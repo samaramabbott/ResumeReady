@@ -1,0 +1,46 @@
+Within the resources page, you have ParentsNext, its now parent pathways, please change this and include link to correct parent pathways website & number.
+
+The Inclusive Employment Australia program replaced the Disability Employment Services program on 1 November 2025. Please also correct this one. 
+
+The Transition to work Website isn’t working. 
+
+Can you also add another link for each saying “find a provider” and link it to the find a provider page - https://www.workforceaustralia.gov.au/individuals/coaching/providers/ but within each link, have pre selected the program as per each link within that page just provided. 
+Please also add the self employment and remote options in the resource page. 
+
+In the 2nd last tab option within resources, can you make these changes:
+1st one (with the baby) - links for ParentsNext please change to parent pathways & update link. Can you also add a link for child care, https://www.startingblocks.gov.au/find-child-care and child care subsidy: https://www.servicesaustralia.gov.au/child-care-subsidy
+2nd one (45+) - link for the career transition doesn’t work. Here’s the link: https://www.dewr.gov.au/career-transition-assistance
+3rd one - path internships link doesn’t work but no longer exists. 
+4th one - remove skills recognition link. Add see program https://www.dewr.gov.au/skills-education-and-employment/see-providers 
+Change amep link to https://immi.homeaffairs.gov.au/settling-in-australia/amep/find-a-class/providers-and-locations
+
+In the job search tab, the wa gov jobs link is wrong, change to https://www.wa.gov.au/service/human-resource-management/recruitment/find-job-the-wa-government
+
+Pro bono jobs link is wrong, update to https://probonoaustralia.niceboard.co/post
+
+Health career link is wrong, update to https://www.health.vic.gov.au/careers
+
+Hospo jobs is https://www.hospoworld.com
+
+Add https://sidekicker.com/industries/hospitality as another one: Side kicker
+
+harvest trail is https://www.agrilabour.com.au/candidates/current-positions/
+
+Remove grad Australia and prosple and get skilled. 
+
+Add careers at council https://www.careersatcouncil.com.au
+
+Please also mention to look at your local council website for jobs board to find local jobs. Also job link and local LGA regularly has a local jobs job board 
+
+Also, when I logged in yesterday I purchased a 5 pack, but today it’s saying I have no active account, that’s an issue and I should have this still and the resume and cover letter id created also isn’t there. 
+
+Once I create a resume, the save button doesn’t work. Please fix. So I go to export and it asks me to pay, so I do (again) and it then looses what I’ve created. 
+Once paid, it will save.
+From the dashboard, if you select create a resume or create a cover letter, can it send you back to the resume builder page to make sure a template is selected first. 
+When creating a resume through the builder, the fonts don’t change. 
+There’s also no section for referees, certifications or custom section. 
+
+In the cover letter templates, whichever I select, it reverts back to the modern blue of that style, can this be fixed? 
+
+With the resume & cover letter, once created, if you export, it doesn’t automatically save and it allows you to export and not count as one that is taken up for the account. Meaning you can create as many as you want if not saving them and exporting. So can you make it that if you must save first before exporting? Have a prompt to say this if exporting is clicked, and they have to then a button to click to save before it’ll export. 
+I had selected the 5 pack which has 30 day access, but when I’m in the dashboard it says it expires in 12 months time. Can this be fixed. Make sure every payment option aligns as it should too for these timeframes 
