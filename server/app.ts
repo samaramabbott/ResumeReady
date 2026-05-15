@@ -10,12 +10,12 @@ app.use(express.json());
 // Serve static client build
 app.use(express.static(path.join(process.cwd(), "dist")));
 
-// Example health check route
+// Health check
 app.get("/health", (_req, res) => {
   res.json({ status: "ok" });
 });
 
-// Fallback to client for all other routes
+// Fallback to client SPA
 app.get("*", (_req, res) => {
   res.sendFile(path.join(process.cwd(), "dist", "index.html"));
 });
